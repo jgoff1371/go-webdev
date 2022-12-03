@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    border: 2px solid red;
+    background-color: darkgrey;
+}
+
+header {
+    background-color: darkgreen;
+}
+
+.navbar {
+    display: flex;
+    height: 36px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 5%;
+}
+
+.quick-links {
+    display: flex;
+    gap: 24px
+}
